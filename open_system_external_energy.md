@@ -147,9 +147,3 @@ To investigate possible ambient sources:
 - High-voltage collapse spikes can exceed hundreds of volts — ensure probe and component ratings have margin.
 - Enclose high-energy circuits.
 - Use fuses/current limits on first power-up.
-
----
-
-## License
-
-MIT — Fork, modify, and share freely. Attribution appreciated.
