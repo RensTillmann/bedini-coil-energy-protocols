@@ -1,6 +1,8 @@
 
 # Bedini Coil Energy Protocols
 
+**Disclaimer:** these are open-source documents generated with the help of AI, based partly on shared knowledge publicly available. You might find them useful as a template or as a source of ideas for refining your test runs. Personally, I’m skeptical of “vacuum” or “quantum vacuum” explanations but if you manage to demonstrate it, I’d be glad to know these protocols helped you get there.
+
 Two open-source, reproducible test protocols for Bedini-style pulsed-coil systems — one for **standard energy audits**, one for **open-system anomaly testing**.
 
 These protocols are **neutral** and focus on **rigorous measurement** so results are credible to both experimenters and skeptics.
