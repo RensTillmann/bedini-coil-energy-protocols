@@ -44,26 +44,4 @@ Bedini-style and other pulsed-coil energy claims often run into **false positive
 These protocols are written to **remove ambiguity**:
 - If there’s **no anomaly**, the data will show it clearly.
 - If there **is** an anomaly, the result will be reproducible and defensible.
-
----
-
-## How to Use
-
-1. **Download** or **clone** this repo.  
-2. Read through both markdown files.  
-3. Decide which protocol applies:
-   - Use **Protocol 1** for proving clean energy balance.  
-   - Use **Protocol 2** for testing open-system / “vacuum energy” style hypotheses.  
-4. Gather the required instruments.  
-5. Follow the steps exactly, logging all data.  
-6. Publish results with full raw data for review.
-
----
-
-## Suggested Tags
-`bedini` `pulse-coil` `flyback` `energy-balance` `measurement-protocol` `open-system` `reproducibility`
-
----
-
-## License
-MIT — Fork, share, and adapt freely. Attribution appreciated.
+  
