@@ -199,9 +199,3 @@ Any “work done” proof **must** show that the **sum** of outputs exceeds `E_i
 - Collapse spikes can exceed **hundreds of volts**. Ensure probe, MOSFET `Vds`, and diode `Vr` margins.  
 - Observe creepage/clearance; enclose high‑energy paths.  
 - Use fuses/current limits on first power‑up; be prepared for switch-node overshoot.
-
----
-
-## License
-
-MIT — fork freely. Contributions welcomed: raw datasets, independent replications, and uncertainty analyses.
